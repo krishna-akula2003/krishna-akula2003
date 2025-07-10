@@ -4,7 +4,7 @@
 ---
 🔗 Connect with me:  
 [![ LinkedIn ](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/chinni-krishna03/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/krishna-akula2003)  
+
 📫 Email: suryaakula2003@gmail.com
 
 ---
