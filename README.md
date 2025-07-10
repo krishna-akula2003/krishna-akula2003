@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinni Krishna Akula</h1>
-<h3 align="center">Final Year CSE Student | Full-Stack & Deep Learning Enthusiast</h3>
+<!-- <h3 align="center">Final Year CSE Student | Full-Stack & Deep Learning Enthusiast</h3> -->
 
 ---
 🔗 Connect with me:  
