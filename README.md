@@ -2,14 +2,8 @@
 <h3 align="center">Final Year CSE Student | Full-Stack & Deep Learning Enthusiast</h3>
 
 ---
-
-🌱 I’m currently working on:  
-- CNN models for ECG Classification  
-- E-commerce Web App using PHP  
-- Exploring System Design & Deployment
-
 🔗 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/chinni-krishna03/)  
+[![ LinkedIn ](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/chinni-krishna03/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/krishna-akula2003)  
 📫 Email: suryaakula2003@gmail.com
 
@@ -42,15 +36,3 @@
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-![snake gif](https://github.com/krishna-akula2003/krishna-akula2003/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 👁️ Visitors
-![visitors](https://komarev.com/ghpvc/?username=krishna-akula2003&label=PROFILE+VIEWS)
-
----
-
-_Thank you for visiting my profile! Let's connect and build something cool together 🚀_
