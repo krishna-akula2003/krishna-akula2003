@@ -25,11 +25,19 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+<h2>📊 GitHub Stats</h2>
 
-### 📊 GitHub Stats
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna-akula2003&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=krishna-akula2003&show_icons=true&theme=github_dark&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-akula2003&layout=compact&theme=github_dark&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-akula2003&langs_count=8)
 
 ---
 
