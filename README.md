@@ -27,9 +27,9 @@
 ---
 
 ### 📊 GitHub Stats
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna-akula2003&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna-akula2003&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-akula2003&langs_count=8)
 
 ---
 
