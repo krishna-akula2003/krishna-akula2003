@@ -33,7 +33,3 @@
 
 ---
 
-### 🧠 Currently Working On
-
-- 🚀 100 Days of DevOps Challenge  
-- 📘 Building daily learning scripts and automation tools  
